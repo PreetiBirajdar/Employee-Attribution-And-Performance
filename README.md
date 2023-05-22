@@ -26,7 +26,7 @@ The following technologies and tools were utilized for this project:
 3. Pandas: Library for data manipulation and analysis.
 4. NumPy: Library for numerical computing.
 5. Matplotlib and Seaborn: Libraries for data visualization.
-6.Scikit-learn: Library for machine learning algorithms and model evaluation.
+6. Scikit-learn: Library for machine learning algorithms and model evaluation.
 
 
 Results and Findings
