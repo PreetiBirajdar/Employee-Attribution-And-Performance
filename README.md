@@ -29,6 +29,24 @@ The following technologies and tools were utilized for this project:
 6. Scikit-learn: Library for machine learning algorithms and model evaluation.
 
 
+Screenhots:
+The following are the screenshots of the project
+
+
+Screenshot 1:
+![image](https://github.com/PreetiBirajdar/Employee-Attribution-And-Performance/assets/83277480/5988a674-b5b1-4fb9-92f0-3b142a7cea68)
+
+
+Screenshot 2:
+![image](https://github.com/PreetiBirajdar/Employee-Attribution-And-Performance/assets/83277480/2b0dc849-bcf4-400f-b2d8-c993eb127e9d)
+
+
+
+Screenshot 3:
+![image](https://github.com/PreetiBirajdar/Employee-Attribution-And-Performance/assets/83277480/713e1f11-3969-4f6a-b049-a09445fa9f5f)
+
+
+
 Results and Findings
 1. The results and findings of the employee attribution and performance analysis project are summarized as follows:
 2. Visualizations showcasing the relationships between employee attributes and performance metrics.
